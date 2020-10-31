@@ -10,7 +10,7 @@
 
 ```sh
 # clone example repository
-git clone https://github.com/core-process/aks-terraform-helm.git
+git clone https://github.com/coreprocess/aks-terraform-helm.git
 cd ./aks-terraform-helm
 
 # login to Azure and set subscription
